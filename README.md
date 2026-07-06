@@ -85,12 +85,11 @@
 
   <br/>
 
-  <img src="./assets/metrics/languages.svg" alt="Languages" width="49%" />
-  <img src="./assets/metrics/habits.svg" alt="Habits" width="49%" />
+  <img src="./assets/metrics/languages.svg" alt="Languages" />
 
-  <br/>
-
-  <img src="./assets/metrics/achievements.svg" alt="Achievements" />
+  <!-- Uncomment below once the workflow generates them successfully -->
+  <!-- <img src="./assets/metrics/habits.svg" alt="Habits" width="49%" /> -->
+  <!-- <img src="./assets/metrics/achievements.svg" alt="Achievements" /> -->
 
 </div>
 
