@@ -9,6 +9,9 @@
   <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/luvkyj?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>&nbsp;
   <a href="mailto:luvkypj13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
